@@ -2,7 +2,14 @@
   <div class="projects text-center">
       <navbar :on_projects="true"></navbar>
       <div class="container w-100 ">
-        <h2 class="text-center">Projects</h2>
+        <h2 class="text-center ">Projects</h2>
+
+        <a href="https://github.com/erthal11/Venom_Distortion" target="_blank">
+          <img class="pluginClass projectImage" alt="Venom_Distortion_Plugin" src="../assets/Venom.png">
+        </a>
+
+        <div>
+        </div>
 
         <a href="https://www.wonderBeats.love" target="_blank">
           <img class="wonderBeats projectImage" alt="Wonder Beats" src="../assets/wonderBeats.png">
@@ -45,7 +52,7 @@ name: "Projects",
 <style scoped>
 
 .wonderBeats {
-  width: 50%;
+  width: 43%;
   max-width: 43vw;
   height: auto;
   border-radius: 1%;
@@ -53,9 +60,22 @@ name: "Projects",
   box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
 }
 
+.pluginClass {
+
+  width: 44%;
+  max-width: 43vw;
+  height: auto;
+  border-radius: 1%;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
+}
+
 
 @media screen and (max-width: 600px) {
   .wonderBeats {
+    min-width: 80vw;
+    height: auto;
+  }
+  .pluginClass{
     min-width: 80vw;
     height: auto;
   }
@@ -67,6 +87,7 @@ name: "Projects",
   border-radius: 2%;
   transition: all .2s ease-in-out;
   margin-bottom: 50px;
+  //text-align: center;
 }
 
 .projectImage:hover{
@@ -93,5 +114,7 @@ h3 {
   border-radius: 50%;
   box-shadow: 0px 3px 10px rgba(0,0,0,.25);
 }
+
+
 
 </style>
