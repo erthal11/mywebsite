@@ -9,56 +9,66 @@
 
       <div class="musicList">
 
-      <div class="box">
-        <a href="https://songwhip.com/conscious3/just-all-right" target="_blank">
-          <img class= "coverArt" alt="Cover Art" src="../assets/JustAlright.jpeg">
-          <div class ="texPadding">
-            <h4 >Conscious & Carolena - "Just Alright"</h4>
-            <h5>Credits: Production, Recording Engineering, Mix Engineering </h5>
-          </div>
-        </a>
-      </div>
+        <div class="box">
+          <a href="https://songwhip.com/conscious5/cold-feelings" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/coldFeelings.jpg">
+            <div class ="texPadding">
+              <h4 >Conscious & Nate08 - "Cold Feelings"</h4>
+              <h5>Credits: Production, Mix Engineering </h5>
+            </div>
+          </a>
+        </div>
 
-      <div class="box">
-        <a href="https://songwhip.com/nate08/where-to" target="_blank">
-          <img class= "coverArt" alt="Cover Art" src="../assets/WhereTo.jpg">
-          <div class ="texPadding">
-            <h4>Nate08 - "Where To?"</h4>
-            <h5>Credits: Production, Recording Engineering, Mix Engineering </h5>
-          </div>
-        </a>
-      </div>
+        <div class="box">
+          <a href="https://songwhip.com/conscious3/just-all-right" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/JustAlright.jpeg">
+            <div class ="texPadding">
+              <h4 >Conscious & Carolena - "Just Alright"</h4>
+              <h5>Credits: Production, Recording Engineering, Mix Engineering </h5>
+            </div>
+          </a>
+        </div>
 
-      <!-- CENTER THIS -->
-      <div class="box">
-        <a href="https://songwhip.com/conscious3/save-me" target="_blank">
-          <img class= "coverArt" alt="Cover Art" src="../assets/SaveMe.jpg">
-          <div class ="texPadding">
-            <h4>Conscious & Ricky Gonz - "Save Me"</h4>
-            <h5>Credits: Production, Recording Engineering </h5>
-          </div>
-        </a>
-      </div>
+        <div class="box">
+          <a href="https://songwhip.com/nate08/where-to" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/WhereTo.jpg">
+            <div class ="texPadding">
+              <h4>Nate08 - "Where To?"</h4>
+              <h5>Credits: Production, Recording Engineering, Mix Engineering </h5>
+            </div>
+          </a>
+        </div>
 
-      <div class="box">
-        <a href="https://songwhip.com/carolena/invitation" target="_blank">
-          <img class= "coverArt" alt="Cover Art" src="../assets/Invitation.jpeg">
-          <div class ="texPadding ">
-            <h4>Carolena & Conscious - "Invitation"</h4>
-            <h5>Credits: Production, Recording Engineering </h5>
-          </div>
-        </a>
-      </div>
+        <!-- CENTER THIS -->
+        <div class="box">
+          <a href="https://songwhip.com/conscious3/save-me" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/SaveMe.jpg">
+            <div class ="texPadding">
+              <h4>Conscious & Ricky Gonz - "Save Me"</h4>
+              <h5>Credits: Production, Recording Engineering </h5>
+            </div>
+          </a>
+        </div>
 
-      <div class="box">
-        <a href="https://songwhip.com/carolena/dame-tu-mano" target="_blank">
-          <img class= "coverArt" alt="Cover Art" src="../assets/DTM.jpeg">
-          <div class ="texPadding">
-            <h4>Conscious & Carolena - "Dame Tu Mano"</h4>
-            <h5>Credits: Production, Recording Engineering, Mix Engineering </h5>
-          </div>
-        </a>
-      </div>
+        <div class="box">
+          <a href="https://songwhip.com/carolena/invitation" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/Invitation.jpeg">
+            <div class ="texPadding ">
+              <h4>Carolena & Conscious - "Invitation"</h4>
+              <h5>Credits: Production, Recording Engineering </h5>
+            </div>
+          </a>
+        </div>
+
+        <div class="box">
+          <a href="https://songwhip.com/carolena/dame-tu-mano" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/DTM.jpeg">
+            <div class ="texPadding">
+              <h4>Conscious & Carolena - "Dame Tu Mano"</h4>
+              <h5>Credits: Production, Recording Engineering, Mix Engineering </h5>
+            </div>
+          </a>
+        </div>
 
 
       </div>
