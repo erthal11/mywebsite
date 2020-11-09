@@ -4,6 +4,13 @@
       <div class="container w-100 ">
         <h2 class="text-center ">Projects</h2>
 
+        <a href="https://github.com/erthal11/Expect-Delays" target="_blank">
+          <img class="pluginClass projectImage" alt="Expect_Delays_Plugin" src="../assets/ExpectDelays.png">
+        </a>
+
+        <div>
+        </div>
+
         <a href="https://github.com/erthal11/Venom_Distortion" target="_blank">
           <img class="pluginClass projectImage" alt="Venom_Distortion_Plugin" src="../assets/Venom.png">
         </a>
