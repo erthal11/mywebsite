@@ -12,7 +12,7 @@
         <div class="box">
           <a href="https://songwhip.com/conscious5/cold-feelings" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/coldFeelings.jpg">
-            <div class ="texPadding">
+            <div class ="texPadding box">
               <h4 >Conscious & Nate08 - "Cold Feelings"</h4>
               <h5>Credits: Production, Mix Engineering </h5>
             </div>
@@ -168,7 +168,6 @@ name: "Discography",
       margin: 20px auto;
       padding: 10px 10px 10px 10px;
       display: block;
-      margin-bottom: 20px;
     }
 
     .texPadding{
@@ -194,8 +193,5 @@ name: "Discography",
     //box-shadow: 0px 3px 10px rgba(0,0,0,.25);
   }
 
-  .center {
-    width: 50%;
-  }
 
 </style>
