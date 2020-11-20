@@ -6,8 +6,9 @@
       <h2 class="text-center">About Me</h2>
 
       <ul>
-        <h4><span class="coolStuff">Work:</span> FIU CS Student / Audio Engineer at Nate08 Records</h4>
-        <h4><span class="coolStuff">Skills:</span> Java, Javascript, C, C++, Python, HTML, CSS, Vue, SQL, Prolog, F#, Microsoft Office, Logic Pro</h4>
+        <h4><span class="coolStuff">Education:</span> BS in Computer Science from Florida International University (Graduation date December 2020)</h4>
+        <h4><span class="coolStuff">Work:</span> Audio Engineer at Nate08 Records</h4>
+        <h4><span class="coolStuff">Skills:</span> C++, Java, Javascript, C, Python, HTML, CSS, Vue, JUCE, SQL, Prolog, F#, Microsoft Office, Logic Pro</h4>
         <h4><span class="coolStuff">Languages:</span> English, Portuguese, Spanish</h4>
         <h4><span class="coolStuff">Extracurricular:</span> Audio/Video Technician at Our Lady of Guadalupe Church, Drumset Teacher</h4>
         <h4><span class="coolStuff">Nationality:</span> Brazil</h4>
