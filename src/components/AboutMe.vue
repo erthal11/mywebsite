@@ -11,7 +11,7 @@
         <h4><span class="coolStuff">Skills:</span> C++, Java, Javascript, C, Python, HTML, CSS, Vue, JUCE, SQL, Prolog, F#, Microsoft Office, Logic Pro</h4>
         <h4><span class="coolStuff">Languages:</span> English, Portuguese, Spanish</h4>
         <h4><span class="coolStuff">Extracurricular:</span> Audio/Video Technician at Our Lady of Guadalupe Church, Drumset Teacher</h4>
-        <h4><span class="coolStuff">Nationality:</span> Brazil</h4>
+        <h4><span class="coolStuff">Nationality:</span> Sâo Paulo, Brazil</h4>
       </ul>
 
       <div class="quoteBox">
