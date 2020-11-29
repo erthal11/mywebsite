@@ -20,7 +20,7 @@
         </div>
 
         <div >
-          <a href="https://songwhip.com/conscious5/cold-feelings" target="_blank">
+          <a href="https://songwhip.com/conscious3/cold-feelings" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/coldFeelings.jpg">
             <div >
               <h4 >Conscious & Nate08 - "Cold Feelings"</h4>
