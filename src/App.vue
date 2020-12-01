@@ -9,6 +9,10 @@
 <!--        ogLocale=""-->
 <!--        url=""-->
 <!--    />-->
+    <a href="mailto: nathanerthal@live.com" target="_blank">
+      <img class="contactButton" alt="Contact Me" src="./assets/clipart161099.png">
+    </a>
+
     <router-view></router-view>
   </div>
 </template>
@@ -47,6 +51,22 @@ export default {
 
 }
 
+
+.contactButton{
+  z-index: 1;
+  max-width: 8vw;
+  height: auto;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .contactButton {
+    min-width: 21vw;
+  }
+
+}
 
 
 body {
