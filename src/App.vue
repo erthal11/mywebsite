@@ -55,6 +55,7 @@ export default {
 .contactButton{
   z-index: 1;
   max-width: 8vw;
+  min-width: 80px;
   height: auto;
   position: fixed;
   bottom: 20px;
