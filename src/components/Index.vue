@@ -24,7 +24,7 @@
             <a href="https://www.linkedin.com/in/nathan-erthal-a62bb419a/" target="_blank" class="fa fa-linkedin"></a>
             <div>
             <!--<a href="../assets/Resume.pdf" target="_blank" class="fa fa-file"></a>-->
-              <a href="https://drive.google.com/file/d/1vS7HP_Fi4KZWP_TMp5bannyG6bl9s8tt/view?usp=sharing" target="_blank" class="fa fa-file"></a>
+              <a href="https://drive.google.com/file/d/1--06CuEDZ03ATmhDnv_coSFPg-fWi4BZ/view?usp=sharing" target="_blank" class="fa fa-file"></a>
             </div>
           </div>
 
