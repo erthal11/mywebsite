@@ -10,6 +10,16 @@
       <div class="musicList">
 
         <div >
+          <a href="https://songwhip.com/purpleberryjam/lately" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/Lately.jpeg">
+            <div >
+              <h4 >Purpleberry Jam - "Lately"</h4>
+              <h5>Credits: Production,Recording Engineering, Mix Engineering </h5>
+            </div>
+          </a>
+        </div>
+
+        <div >
           <a href="https://songwhip.com/conscious5/break-off" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/BreakOff.png">
             <div >
