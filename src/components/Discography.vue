@@ -10,6 +10,16 @@
       <div class="musicList">
 
         <div >
+          <a href="https://songwhip.com/bloomdream/fever-dream" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/FeverDream.jpeg">
+            <div >
+              <h4 >Bloom Dream - "Fever Dream"</h4>
+              <h5>Credits: Mix Engineering </h5>
+            </div>
+          </a>
+        </div>
+
+        <div >
           <a href="https://songwhip.com/purpleberryjam/lately" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/Lately.jpeg">
             <div >

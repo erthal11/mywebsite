@@ -6,12 +6,18 @@
       <h2 class="text-center">About Me</h2>
 
       <ul>
-        <h4><span class="coolStuff">Education:</span> BS in Computer Science from Florida International University (Graduation date December 2020)</h4>
-        <h4><span class="coolStuff">Work:</span> Audio Engineer at Nate08 Records</h4>
-        <h4><span class="coolStuff">Skills:</span> C++, Java, Javascript, C, Python, HTML, CSS, Vue, JUCE, SQL, Prolog, F#, Microsoft Office, Logic Pro</h4>
-        <h4><span class="coolStuff">Languages:</span> English, Portuguese, Spanish</h4>
-        <h4><span class="coolStuff">Extracurricular:</span> Audio/Video Technician at Our Lady of Guadalupe Church, Drumset Teacher</h4>
-        <h4><span class="coolStuff">Nationality:</span> Sâo Paulo, Brazil</h4>
+        <h4><span class="coolStuff">Education:</span> <br>BS in Computer Science from
+          <a href="https://www.fiu.edu/" target="_blank">Florida International University</a> 2020
+          <br>MS in Music Engineering Technology from <a href="https://welcome.miami.edu/" target="_blank">University of Miami</a> 2023</h4>
+        <h4><span class="coolStuff">Work:</span> <br>Substitute Teacher at <a href="https://www.doralacademyprep.org/" target="_blank">Doral Academy Preparatory School</a>
+          <br>Audio Engineer at <router-link to="/discography" target="_blank">Nate08 Records</router-link>
+          <br>Drum Instructor at <a href="http://themusicworkshopmiami.com/" target="_blank">The Music Workshop Miami</a></h4>
+        <h4><span class="coolStuff">Skills:</span> <br>C++, Java, Javascript, C, Python, HTML, CSS, Vue, JUCE, SQL, Prolog, F#, Microsoft Office, Logic Pro</h4>
+        <h4><span class="coolStuff">Languages:</span> <br>English, Portuguese, Spanish</h4>
+        <h4><span class="coolStuff">Extracurricular:</span> <br>Audio/Video Technician at <a href="https://www.facebook.com/OurLadyofGuadalupeCatholicChurch/about/?ref=page_internal" target="_blank">Our Lady of Guadalupe Church</a>
+          <br>Audio Engineer at <a href="https://www.youtube.com/channel/UCNwyQ00Cp78UGMiIRSEGxFg" target = "_blank">Garage Sound Records</a></h4>
+        <h4><span class="coolStuff">Location:</span> <br>Doral, Florida</h4>
+        <h4><span class="coolStuff">Nationality:</span> <br>Sâo Paulo, Brazil</h4>
       </ul>
 
       <div class="quoteBox">
@@ -73,6 +79,21 @@ h4 {
 
 h3{
   //color: #D4AF37;
+}
+
+a{
+  letter-spacing: .004em;
+//font-weight: 400;
+  //color: antiquewhite;
+  color: #D4AF37;
+//font-size: 20px;
+//text-shadow: 2px 2px black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D4AF37;
+  text-decoration: underline;
 }
 
 </style>
