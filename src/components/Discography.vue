@@ -12,8 +12,8 @@
         <div >
           <a href="https://songwhip.com/bloomdream/sleepwalking-in-the-garden-ep" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/SleepwalkingBloomDream.jpeg">
-            <div >
-              <h4 >Bloom Dream - "Sleepwalking In The Garden"</h4>
+            <div >              <h4 >Bloom Dream - "Sleepwalking In The Garden"</h4>
+
               <h5>Credits: Mix Engineering </h5>
             </div>
           </a>
