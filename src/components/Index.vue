@@ -22,9 +22,13 @@
             <!-- <a href="#" class="fa fa-youtube"></a> -->
             <a href="https://github.com/erthal11" target="_blank" class="fa fa-github"></a>
             <a href="https://www.linkedin.com/in/nathan-erthal-a62bb419a/" target="_blank" class="fa fa-linkedin"></a>
+            <a href="https://devpost.com/Erthal11" target="_blank">
+              <img class ="fa fa-devpost" alt="devpost" src="../assets/devIcon.png">
+            </a>
             <div>
-            <!--<a href="../assets/Resume.pdf" target="_blank" class="fa fa-file"></a>-->
-              <a href="https://drive.google.com/file/d/1--06CuEDZ03ATmhDnv_coSFPg-fWi4BZ/view?usp=sharing" target="_blank" class="fa fa-file"></a>
+              <a href="https://drive.google.com/file/d/1--06CuEDZ03ATmhDnv_coSFPg-fWi4BZ/view?usp=sharing" target="_blank">
+                <img class ="fa fa-resume" alt="devpost" src="../assets/resumeIcon.png">
+              </a>
             </div>
           </div>
 
@@ -129,6 +133,16 @@ name: "Index",
 .fa-linkedin{
   background: #0e76a8;
   color: white;
+}
+
+.fa-devpost{
+  background: white;
+  color: white;
+}
+
+.fa-resume{
+  background: white;
+  color: black;
 }
 
 .profileImage {

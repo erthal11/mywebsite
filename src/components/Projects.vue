@@ -7,6 +7,16 @@
 
         <div class="projectList">
 
+          <a href="https://www.youtube.com/watch?v=JS_5_kWdSAQ" target="_blank">
+<!--            <video controls width="50%" height="30%">-->
+<!--              <source src="../assets/BEMODemo.mp4" controls></video>-->
+            <img class="bemoClass projectImage" alt="BEMO" src="../assets/BEMOPic.png">
+            <div class ="box">
+              <h4 >BEMO Control Surface</h4>
+              <h5>Control Surface for logic using arduino, midiusb library, motorized fader, alphanumeric display, scroll wheel and buttons.</h5>
+            </div>
+          </a>
+
 
           <a href="https://github.com/erthal11/Schroeder-s-Reverb" target="_blank">
             <img class="pluginClass projectImage" alt="Expect_Delays_Plugin" src="../assets/SchroederReverbImage.png">
@@ -97,7 +107,15 @@ name: "Projects",
 
 .pluginClass {
 
-  width: 44%;
+  width: 35%;
+  max-width: 43vw;
+  height: auto;
+  border-radius: 1%;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
+}
+
+.bemoClass {
+  width: 22%;
   max-width: 43vw;
   height: auto;
   border-radius: 1%;
@@ -112,6 +130,10 @@ name: "Projects",
   }
   .pluginClass{
     min-width: 80vw;
+    height: auto;
+  }
+  .bemoClass {
+    min-width: 50vw;
     height: auto;
   }
   .projectImage {
