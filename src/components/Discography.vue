@@ -10,10 +10,27 @@
       <div class="musicList">
 
         <div >
+          <a href="https://songwhip.com/purpleberryjam/fantasy" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/Fantasy.jpeg">
+            <div ><h4>Purpleberry Jam - "Fantasy"</h4>
+              <h5>Credits: Production,Recording Engineering, Mix Engineering</h5>
+            </div>
+          </a>
+        </div>
+
+        <div >
+          <a href="https://songwhip.com/purpleberryjam/android2022" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/Android.jpeg">
+            <div ><h4>Purpleberry Jam - "Android"</h4>
+              <h5>Credits: Production,Recording Engineering, Mix Engineering</h5>
+            </div>
+          </a>
+        </div>
+
+        <div >
           <a href="https://songwhip.com/bloomdream/sleepwalking-in-the-garden-ep" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/SleepwalkingBloomDream.jpeg">
-            <div >              <h4 >Bloom Dream - "Sleepwalking In The Garden"</h4>
-
+            <div ><h4>Bloom Dream - "Sleepwalking In The Garden"</h4>
               <h5>Credits: Mix Engineering </h5>
             </div>
           </a>
@@ -34,7 +51,7 @@
             <img class= "coverArt" alt="Cover Art" src="../assets/Lately.jpeg">
             <div >
               <h4 >Purpleberry Jam - "Lately"</h4>
-              <h5>Credits: Production,Recording Engineering, Mix Engineering </h5>
+              <h5>Credits: Production,Recording Engineering, Mix Engineering</h5>
             </div>
           </a>
         </div>
