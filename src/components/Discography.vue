@@ -21,7 +21,7 @@
         <div >
           <a href="https://songwhip.com/purpleberryjam/violet" target="_blank">
             <img class= "coverArt" alt="Cover Art" src="../assets/VioletAlbumCover.jpeg">
-            <div ><h4>Purpleberry Jam - "Fantasy"</h4>
+            <div ><h4>Purpleberry Jam - "Violet"</h4>
               <h5>Credits: Production, Recording Engineering, Mix Engineering</h5>
             </div>
           </a>
