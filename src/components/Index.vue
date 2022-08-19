@@ -26,7 +26,7 @@
               <img class ="fa fa-devpost" alt="devpost" src="../assets/devIcon.png">
             </a>
             <div>
-              <a href="https://drive.google.com/file/d/1--06CuEDZ03ATmhDnv_coSFPg-fWi4BZ/view?usp=sharing" target="_blank">
+              <a href="https://drive.google.com/file/d/1Ay0VhQEDQe40l4yj3eyN6pZHcdws4xpF/view?usp=sharing" target="_blank">
                 <img class ="fa fa-resume" alt="devpost" src="../assets/resumeIcon.png">
               </a>
             </div>
