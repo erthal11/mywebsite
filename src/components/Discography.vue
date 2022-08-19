@@ -9,14 +9,14 @@
 
       <div class="musicList">
 
-<!--        <div >-->
-<!--          <a href="https://distrokid.com/hyperfollow/nate081/the-grand-design-vol-1-3" target="_blank">-->
-<!--            <img class= "coverArt" alt="Cover Art" src="../assets/CoverArt1.jpeg">-->
-<!--            <div ><h4>Nate08 - "The Grand Design (Vol 1)"</h4>-->
-<!--              <h5>Credits: Production,Recording Engineering, Mix Engineering</h5>-->
-<!--            </div>-->
-<!--          </a>-->
-<!--        </div>-->
+        <div >
+          <a href="https://distrokid.com/hyperfollow/nate081/the-grand-design-vol-1-3" target="_blank">
+            <img class= "coverArt" alt="Cover Art" src="../assets/CoverArt1.jpeg">
+            <div ><h4>Nate08 - "The Grand Design (Vol 1)"</h4>
+              <h5>Credits: Production,Recording Engineering, Mix Engineering</h5>
+            </div>
+          </a>
+        </div>
 
         <div >
           <a href="https://songwhip.com/purpleberryjam/violet" target="_blank">
