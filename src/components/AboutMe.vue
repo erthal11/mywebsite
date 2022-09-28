@@ -9,9 +9,11 @@
         <h4><span class="coolStuff">Education:</span> <br>BS in Computer Science from
           <a href="https://www.fiu.edu/" target="_blank">Florida International University</a> 2020
           <br>MS in Music Engineering Technology from <a href="https://welcome.miami.edu/" target="_blank">University of Miami</a> 2023</h4>
-        <h4><span class="coolStuff">Work:</span> <br>Substitute Teacher at <a href="https://www.doralacademyprep.org/" target="_blank">Doral Academy Preparatory School</a>
+        <h4><span class="coolStuff">Work:</span>
+          <br>System Verification Intern at <a href="https://www.shure.com/en-US" target="_blank">Shure</a>
+          <br>Substitute Teacher at <a href="https://www.doralacademyprep.org/" target="_blank">Doral Academy Preparatory School</a>
           <br>Audio Engineer at <router-link to="/discography" target="_blank">Nate08 Records</router-link>
-          <br>Drum Instructor at <a href="http://themusicworkshopmiami.com/" target="_blank">The Music Workshop Miami</a></h4>
+        </h4>
         <h4><span class="coolStuff">Skills:</span> <br>C++, Java, Javascript, C, Python, HTML, CSS, Vue, JUCE, SQL, Prolog, F#, Microsoft Office, Logic Pro</h4>
         <h4><span class="coolStuff">Languages:</span> <br>English, Portuguese, Spanish</h4>
         <h4><span class="coolStuff">Extracurricular:</span> <br>Audio/Video Technician at <a href="https://www.facebook.com/OurLadyofGuadalupeCatholicChurch/about/?ref=page_internal" target="_blank">Our Lady of Guadalupe Church</a>
