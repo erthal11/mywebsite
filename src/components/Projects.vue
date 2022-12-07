@@ -11,7 +11,7 @@
             <img class="pluginClass projectImage" alt="Interstellar_Plugin" src="../assets/InterstellarScreenshot.png">
             <div class ="box">
               <h4 >Interstellar</h4>
-              <h5>Reverb/Delay Plugin made with JUCE. Inspired by Valhalla Supermassive.</h5>
+              <h5>Reverb/Delay Plugin made with JUCE. Inspired by Valhalla Supermassive. </h5>
             </div>
           </a>
 
