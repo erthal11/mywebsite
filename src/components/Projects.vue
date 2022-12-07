@@ -7,13 +7,29 @@
 
         <div class="projectList">
 
+          <a href="https://www.youtube.com/watch?v=8pNA9RDIndg" target="_blank">
+            <img class="pluginClass projectImage" alt="Interstellar_Plugin" src="../assets/InterstellarScreenshot.png">
+            <div class ="box">
+              <h4 >Interstellar</h4>
+              <h5>Reverb/Delay Plugin made with JUCE. Inspired by Valhalla Supermassive.</h5>
+            </div>
+          </a>
+
+          <a href="https://www.youtube.com/watch?v=1BPXCA_SNiA&t=9s" target="_blank">
+            <img class="pluginClass projectImage" alt="Synth_Plugin" src="../assets/SynthScreenshot.png">
+            <div class ="box">
+              <h4 >Additive Synth</h4>
+              <h5>Synth plugin made with JUCE. Includes 4 oscillators, pitch modulation, polyphonic/monophonic settings with pitch glide.</h5>
+            </div>
+          </a>
+
           <a href="https://www.youtube.com/watch?v=JS_5_kWdSAQ" target="_blank">
 <!--            <video controls width="50%" height="30%">-->
 <!--              <source src="../assets/BEMODemo.mp4" controls></video>-->
             <img class="bemoClass projectImage" alt="BEMO" src="../assets/BEMOPic.png">
             <div class ="box">
               <h4 >BEMO Control Surface</h4>
-              <h5>Control Surface for logic using arduino, midiusb library, motorized fader, alphanumeric display, scroll wheel and buttons.</h5>
+              <h5>Hardware Control Surface for logic using arduino, midiusb library, motorized fader, display, scroll wheel and buttons.</h5>
             </div>
           </a>
 
@@ -22,7 +38,7 @@
             <img class="pluginClass projectImage" alt="Expect_Delays_Plugin" src="../assets/SchroederReverbImage.png">
             <div class ="box">
               <h4 >Schroeder Reverb</h4>
-              <h5>A reverb plugin made with JUCE. Implemented using Schroeder's algorithm with delayLines making up all-pass filters and comb filters. Mix, size, decay, and gain sliders for each delay line output included.</h5>
+              <h5>A reverb plugin made with JUCE. Implemented using Schroeder's algorithm.</h5>
             </div>
           </a>
 
@@ -31,7 +47,7 @@
             <img class="pluginClass projectImage" alt="Expect_Delays_Plugin" src="../assets/ExpectDelays.png">
             <div class ="box">
               <h4 >Expect Delays</h4>
-              <h5>Ping-pong delay plugin made with juce using dsp::delayLine. Includes adjustable rate, feedback left/right, width, left/right delay shifters, filters, mix, and output. GUI made using Foley's PluginGuiMagic includes interact-able visual representation for delayed signals.</h5>
+              <h5>Ping-pong delay plugin made with JUCE. Includes rate, feedback, width, delay shifters, and filters. GUI made using Foley's PluginGuiMagic includes visualizer for delayed signals.</h5>
             </div>
           </a>
 
