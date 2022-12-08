@@ -11,7 +11,7 @@
             <img class="pluginClass projectImage" alt="Interstellar_Plugin" src="../assets/InterstellarScreenshot.png">
             <div class ="box">
               <h4 >Interstellar</h4>
-              <h5>Reverb/Delay Plugin made with JUCE. Inspired by Valhalla Supermassive. </h5>
+              <h5>Reverb/Delay plugin inspired by Valhalla Supermassive. </h5>
             </div>
           </a>
 
@@ -19,7 +19,7 @@
             <img class="pluginClass projectImage" alt="Synth_Plugin" src="../assets/SynthScreenshot.png">
             <div class ="box">
               <h4 >Additive Synth</h4>
-              <h5>Synth plugin made with JUCE. Includes 4 oscillators, pitch modulation, polyphonic/monophonic settings with pitch glide.</h5>
+              <h5>Synth plugin includes 4 oscillators, pitch modulation, polyphonic/monophonic settings with pitch glide.</h5>
             </div>
           </a>
 
@@ -38,7 +38,7 @@
             <img class="pluginClass projectImage" alt="Expect_Delays_Plugin" src="../assets/SchroederReverbImage.png">
             <div class ="box">
               <h4 >Schroeder Reverb</h4>
-              <h5>A reverb plugin made with JUCE. Implemented using Schroeder's algorithm.</h5>
+              <h5>A reverb plugin implemented using Schroeder's algorithm.</h5>
             </div>
           </a>
 
@@ -47,7 +47,7 @@
             <img class="pluginClass projectImage" alt="Expect_Delays_Plugin" src="../assets/ExpectDelays.png">
             <div class ="box">
               <h4 >Expect Delays</h4>
-              <h5>Ping-pong delay plugin made with JUCE. Includes rate, feedback, width, delay shifters, and filters. GUI made using Foley's PluginGuiMagic includes visualizer for delayed signals.</h5>
+              <h5>Ping-pong delay plugin includes rate, feedback, width, delay shifters, and filters. GUI made using Foley's PluginGuiMagic includes visualizer for delayed signals.</h5>
             </div>
           </a>
 
@@ -56,7 +56,7 @@
             <img class="pluginClass projectImage" alt="Venom_Distortion_Plugin" src="../assets/Venom.png">
             <div class ="box">
               <h4>Venom Distortion</h4>
-              <h5>Distortion plugin using JUCE. Includes softclip/hardclip option, input, drive, lowpass and highpass filters, output, and a mix knob.</h5>
+              <h5>My introduction project to JUCE: Distortion plugin includes softclip/hardclip option, input, drive, lowpass and highpass filters, output, and a mix knob.</h5>
             </div>
           </a>
 
@@ -113,8 +113,8 @@ name: "Projects",
 }
 
 .wonderBeats {
-  width: 43%;
-  max-width: 43vw;
+  width: 30%;
+  max-width: 30vw;
   height: auto;
   border-radius: 1%;
 
@@ -141,7 +141,7 @@ name: "Projects",
 
 @media screen and (max-width: 600px) {
   .wonderBeats {
-    min-width: 80vw;
+    min-width: 70vw;
     height: auto;
   }
   .pluginClass{
@@ -187,7 +187,8 @@ h3 {
 //padding-top: 50px;
 //background-color: #7D88B5;
 //display: flex;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
+  margin-top: 5px;
 }
 
 
