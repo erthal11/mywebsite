@@ -11,6 +11,7 @@
           <br>MS in Music Engineering Technology from <a href="https://welcome.miami.edu/" target="_blank">University of Miami</a> 2023</h4>
         <h4><span class="coolStuff">Work:</span>
           <br>System Verification Intern at <a href="https://www.shure.com/en-US" target="_blank">Shure</a>
+          <br>DSP Course Graduate Teaching Assistant at <a href="https://www.shure.com/en-US" target="_blank">University of Miami</a>
           <br>Substitute Teacher at <a href="https://www.doralacademyprep.org/" target="_blank">Doral Academy Preparatory School</a>
           <br>Audio Engineer at <router-link to="/discography" target="_blank">Nate08 Records</router-link>
         </h4>
