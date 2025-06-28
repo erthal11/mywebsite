@@ -2,7 +2,7 @@
   <div id="index" class="text-center">
       <navbar :on_index="true"></navbar>
         <div class="container w-100 ">
-          <h1>Nathan Erthal</h1>
+          <h2>Nathan Erthal</h2>
           <!--<img alt="title" src="../assets/"> -->
           <!--<img class="circular--landscape" alt="Nathan Erthal" src="../assets/Nathan&Kaiser.jpg">-->
           <div>
@@ -10,26 +10,21 @@
           </div>
 
           <div>
-            <h3 class="toggleLine"> Software Engineer <span class="coolStuff">/</span> Audio Engineer</h3>
+            <h3 class="toggleLine"> Signal Processing <span class="coolStuff">/</span> Software <span class="coolStuff">/</span> Audio Engineer</h3>
           </div>
 
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
           <!--font awesome icons -->
           <div class="socialMedia">
 
-            <a href="https://www.facebook.com/Erthal11/" target="_blank" class="fa fa-facebook"></a>
-            <a href="https://www.instagram.com/nate.o.eight/?hl=en" target="_blank" class="fa fa-instagram"></a>
+<!--            <a href="https://www.facebook.com/Erthal11/" target="_blank" class="fa fa-facebook"></a>-->
+<!--            <a href="https://www.instagram.com/nate.o.eight/?hl=en" target="_blank" class="fa fa-instagram"></a>-->
             <!-- <a href="#" class="fa fa-youtube"></a> -->
             <a href="https://github.com/erthal11" target="_blank" class="fa fa-github"></a>
-            <a href="https://www.linkedin.com/in/nathan-erthal-a62bb419a/" target="_blank" class="fa fa-linkedin"></a>
-            <a href="https://devpost.com/Erthal11" target="_blank">
-              <img class ="fa fa-devpost" alt="devpost" src="../assets/devIcon.png">
+            <a href="https://drive.google.com/file/d/1vfQ52MmxCs7gAaxMX-tdQUz6lvK-ih4c/view?usp=drive_link" target="_blank">
+              <img class ="fa fa-resume" alt="devpost" src="../assets/resumeIcon.png">
             </a>
-            <div>
-              <a href="https://drive.google.com/file/d/1Ay0VhQEDQe40l4yj3eyN6pZHcdws4xpF/view?usp=sharing" target="_blank">
-                <img class ="fa fa-resume" alt="devpost" src="../assets/resumeIcon.png">
-              </a>
-            </div>
+            <a href="https://www.linkedin.com/in/nathan-erthal-a62bb419a/" target="_blank" class="fa fa-linkedin"></a>
           </div>
 
           <div>
@@ -146,8 +141,8 @@ name: "Index",
 }
 
 .profileImage {
-  max-width: 25vw;
-  min-width: 25vw;
+  max-width: 21vw;
+  min-width: 21vw;
   height: auto;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
   border-radius: 6%;
