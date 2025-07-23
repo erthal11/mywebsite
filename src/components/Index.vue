@@ -16,7 +16,6 @@
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
           <!--font awesome icons -->
           <div class="socialMedia">
-
 <!--            <a href="https://www.facebook.com/Erthal11/" target="_blank" class="fa fa-facebook"></a>-->
 <!--            <a href="https://www.instagram.com/nate.o.eight/?hl=en" target="_blank" class="fa fa-instagram"></a>-->
             <!-- <a href="#" class="fa fa-youtube"></a> -->
