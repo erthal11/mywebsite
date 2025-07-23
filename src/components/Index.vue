@@ -30,7 +30,6 @@
             <img class="waves" alt="waves" src="../assets/audioWaves.png">
           </div>
 
-
         </div>
   </div>
 </template>
